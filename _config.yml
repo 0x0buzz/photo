@@ -1,0 +1,19 @@
+title: 相册
+author: riverfiy
+email: width10086@gmail.com
+description: >-
+  存放一些照片
+
+social:
+  github: riverfiy
+  #linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
